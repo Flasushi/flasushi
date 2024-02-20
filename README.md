@@ -1,6 +1,6 @@
 ### Hi, handle name is **Flasushi** ,  sushi-kun also called.
 - 🌱 I'm currently relearning coding after a long break.
-- 📫 You can reach me.  [𝕏](https:twitter/flasushi)
+- 📫 You can reach me.  [𝕏](https://twitter.com/Flasushi)
 
 <!--
 **Flasushi/flasushi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
